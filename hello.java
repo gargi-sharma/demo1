@@ -5,5 +5,5 @@ public class gargi{
 	
 	System.out.print"hey"
 	System.out.print"h"
-	}
+yedgueuduu	}
 }
